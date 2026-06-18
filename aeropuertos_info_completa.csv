@@ -1,0 +1,210 @@
+icao,iata,name
+BIKF,KEF,Keflavik International Airport
+CYHZ,YHZ,Halifax Stanfield International Airport
+CYUL,YUL,Montreal Pierre Elliott Trudeau Airport
+CYYC,YYC,Calgary International Airport
+CYYZ,YYZ,Toronto Pearson International Airport
+DAAG,ALG,Algiers Houari Boumediene Airport
+DTTA,TUN,Tunis Carthage International Airport
+EBBR,BRU,Brussels Airport
+EBCI,CRL,Brussels South Charleroi Airport
+EBOS,OST,Ostend Bruges International Airport
+EDDB,BER,Berlin Brandenburg Airport
+EDDE,ERF,Erfurt Weimar Airport
+EDDF,FRA,Frankfurt Airport
+EDDG,FMO,Munster Osnabruck International Airport
+EDDH,HAM,Hamburg Airport
+EDDK,CGN,Cologne Bonn Airport
+EDDL,DUS,Dusseldorf Airport
+EDDM,MUC,Munich Airport
+EDDN,NUE,Nuremberg Airport
+EDDP,LEJ,Leipzig Halle Airport
+EDDS,STR,Stuttgart Airport
+EDDV,HAJ,Hannover Langenhagen Airport
+EDDW,BRE,Bremen Airport
+EDFH,HHN,Frankfurt Hahn Airport
+EDLP,PAD,Paderborn Lippstadt Airport
+EDSB,FKB,Karlsruhe / Baden-Baden Airport
+EETN,TLL,Tallinn Lennart Meri Airport
+EFHK,HEL,Helsinki Vantaa Airport
+EGAC,BHD,Belfast City George Best Airport
+EGBB,BHX,Birmingham Airport
+EGCC,MAN,Manchester Airport
+EGGD,BRS,Bristol Airport
+EGGP,LPL,Liverpool John Lennon Airport
+EGGW,LTN,London Luton Airport
+EGKK,LGW,London Gatwick Airport
+EGNM,LBA,Leeds Bradford Airport
+EGNT,NCL,Newcastle Airport
+EGNV,MME,Teesside International Airport
+EGPF,GLA,Glasgow International Airport
+EGPH,EDI,Edinburgh Airport
+EGSS,STN,London Stansted Airport
+EHAM,AMS,Amsterdam Schiphol Airport
+EHEH,EIN,Eindhoven Airport
+EHRD,RTM,Rotterdam The Hague Airport
+EICK,ORK,Cork Airport
+EIDW,DUB,Dublin Airport
+EINN,SNN,Shannon Airport
+EKBI,BLL,Billund Airport
+EKCH,CPH,Copenhagen Airport
+ELLX,LUX,Luxembourg Findel Airport
+ENGM,OSL,Oslo Gardermoen Airport
+EPGD,GDN,Gdansk Lech Walesa Airport
+EPKK,KRK,Krakow John Paul II International Airport
+EPKT,KTW,Katowice International Airport
+EPMO,WMI,Warsaw Modlin Airport
+EPPO,POZ,Poznan Lawica Airport
+EPRZ,RZE,Rzeszow Jasionka Airport
+EPWA,WAW,Warsaw Chopin Airport
+EPWR,WRO,Wroclaw Copernicus Airport
+ESSA,ARN,Stockholm Arlanda Airport
+EVRA,RIX,Riga International Airport
+EYVI,VNO,Vilnius International Airport
+GCFV,FUE,Fuerteventura Airport
+GCGM,GMZ,La Gomera Airport
+GCHI,VDE,El Hierro Airport
+GCLA,SPC,La Palma Airport
+GCLB,QRP,Maspalomas El Berriel Airport
+GCLP,LPA,Gran Canaria Airport
+GCRR,ACE,Lanzarote Airport
+GCTS,TFS,Tenerife South Airport
+GCXO,TFN,Tenerife North Airport
+GMFF,FEZ,Fes Saiss Airport
+GMME,RBA,Rabat-Sale Airport
+GMMI,ESU,Essaouira Airport
+GMMW,NDR,Nador International Airport
+GMMX,RAK,Marrakesh Menara Airport
+GMTT,TNG,Tangier Ibn Battouta Airport
+KATL,ATL,Atlanta Hartsfield-Jackson International Airport
+KBOS,BOS,Boston Logan International Airport
+KDFW,DFW,Dallas Fort Worth International Airport
+KEWR,EWR,New York Newark Liberty International Airport
+KHPN,HPN,White Plains Westchester County Airport
+KIAD,IAD,Washington Dulles International Airport
+KJFK,JFK,New York John F. Kennedy International Airport
+KLAX,LAX,Los Angeles International Airport
+KMCO,MCO,Orlando International Airport
+KMIA,MIA,Miami International Airport
+KORD,ORD,Chicago O'Hare International Airport
+KPHL,PHL,Philadelphia International Airport
+KPWM,PWM,Portland International Jetport
+KSFO,SFO,San Francisco International Airport
+KTEB,TEB,Teterboro Airport
+LBSF,SOF,Sofia Vasil Levski Airport
+LBWN,VAR,Varna Airport
+LCLK,LCA,Larnaca International Airport
+LEAL,ALC,Alicante Airport
+LEAM,LEI,Almeria Airport
+LEAS,OVD,Asturias Airport
+LEBA,ODB,Cordoba Airport
+LEBB,BIO,Bilbao Airport
+LEBL,BCN,Barcelona El Prat Airport
+LECH,CDT,Castellon Costa Azahar Airport
+LECO,LCG,A Coruna Airport
+LEGE,GRO,Girona Costa Brava Airport
+LEIB,IBZ,Ibiza Airport
+LELL,QYS,Sabadell Airport
+LEMD,MAD,Madrid Barajas Airport
+LEMG,AGP,Malaga Costa Del Sol Airport
+LEMH,MAH,Mahon Menorca Airport
+LEPA,PMI,Palma de Mallorca Airport
+LESA,SLM,Salamanca Airport
+LESB,QRS,Palma de Mallorca Son Bonet Airport
+LEST,SCQ,Santiago de Compostela Airport
+LEVC,VLC,Valencia Airport
+LEVT,VIT,Vitoria Airport
+LEVX,VGO,Vigo-Peinador Airport
+LEZL,SVQ,Seville San Pablo Airport
+LFBD,BOD,Bordeaux Merignac Airport
+LFBO,TLS,Toulouse Blagnac Airport
+LFBP,PUF,Pau Pyrenees Airport
+LFLL,LYS,Lyon Saint Exupery Airport
+LFML,MRS,Marseille Provence Airport
+LFMN,NCE,Nice Cote d'Azur Airport
+LFMT,MPL,Montpellier Mediterranee Airport
+LFOB,BVA,Paris Beauvais-Tille Airport
+LFPB,LBG,Paris Le Bourget Airport
+LFPG,CDG,Paris Charles de Gaulle Airport
+LFPO,ORY,Paris Orly Airport
+LFQQ,LIL,Lille Airport
+LFRI,EDM,La Roche-sur-Yon Les Ajoncs Airport
+LFRS,NTE,Nantes Atlantique Airport
+LFSB,BSL,Basel Mulhouse-Freiburg EuroAirport
+LFTH,TLN,Toulon-Hyeres Airport
+LGAV,ATH,Athens Eleftherios Venizelos
+LGMK,JMK,Mykonos Island National Airport
+LHBP,BUD,Budapest Ferenc Liszt International Airport
+LIBD,BRI,Bari Karol Wojtyla Airport
+LIBR,BDS,Brindisi Airport
+LICJ,PMO,Palermo Falcone-Borsellino Airport
+LICT,TPS,Trapani Birgi Airport
+LIMC,MXP,Milan Malpensa Airport
+LIME,BGY,Milan Bergamo Orio al Serio International Airport
+LIPE,BLQ,Bologna Guglielmo Marconi Airport
+LIPH,TSF,Venice Treviso Airport
+LIPO,VBS,Brescia Montichiari Airport
+LIPQ,TRS,Trieste Friuli Venezia Giulia Airport
+LIPX,VRN,Verona Airport
+LIPZ,VCE,Venice Marco Polo Airport
+LIRF,FCO,Rome Leonardo da Vinci Fiumicino Airport
+LIRN,NAP,Naples Airport
+LIRP,PSA,Pisa Galileo Galilei Airport
+LIRQ,FLR,Florence Peretola Airport
+LKPD,PED,Pardubice Airport
+LKPR,PRG,Prague Vaclav Havel Airport
+LLBG,TLV,Tel Aviv Ben Gurion International Airport
+LMML,MLA,Malta Luqa International Airport
+LOWL,LNZ,Linz Airport
+LOWW,VIE,Vienna International Airport
+LPPR,OPO,Porto Francisco de Sa Carneiro Airport
+LPPT,LIS,Lisbon Humberto Delgado Airport
+LRCL,CLJ,Cluj-Napoca International Airport
+LRIA,IAS,Iasi International Airport
+LROP,OTP,Bucharest Henri Coanda International Airport
+LRTR,TSR,Timisoara Traian Vuia International Airport
+LSGG,GVA,Geneva International Airport
+LSZC,BXO,Buochs Airport
+LSZH,ZRH,Zurich Airport
+LTFM,IST,Istanbul Airport
+LYBE,BEG,Belgrade Nikola Tesla Airport
+MDPC,PUJ,Punta Cana International Airport
+MDSD,SDQ,Santo Domingo Las Americas International Airport
+MDST,STI,Santiago de los Caballeros Cibao International Airport
+MHLM,SAP,San Pedro Sula La Mesa International Airport
+MHPR,XPL,Tegucigalpa Palmerola International Airport
+MMMX,MEX,Mexico City International Airport
+MMMY,MTY,Monterrey International Airport
+MMUN,CUN,Cancun International Airport
+MPTO,PTY,Panama City Tocumen International Airport
+MROC,SJO,San Jose Juan Santamaria International Airport
+MSLP,SAL,San Salvador International Airport
+OEJN,JED,Jeddah King Abdulaziz International Airport
+OMAA,AUH,Abu Dhabi Zayed International Airport
+OMDB,DXB,Dubai International Airport
+OMSJ,SHJ,Sharjah International Airport
+OTHH,DOH,Doha Hamad International Airport
+RKSI,ICN,Seoul Incheon International Airport
+SABE,AEP,Buenos Aires Jorge Newbery Airport
+SAEZ,EZE,Buenos Aires Ministro Pistarini International Airport
+SBFZ,FOR,Fortaleza Pinto Martins International Airport
+SBGR,GRU,Sao Paulo Guarulhos International Airport
+SBKP,VCP,Campinas Viracopos International Airport
+SBRF,REC,Recife Airport
+SBSV,SSA,Salvador International Airport
+SEGU,GYE,Guayaquil International Airport
+SEQM,UIO,Quito Mariscal Sucre International Airport
+SKBO,BOG,Bogota El Dorado International Airport
+SKCL,CLO,Cali Alfonso Bonilla Aragon International Airport
+SKRG,MDE,Medellin Jose Maria Cordova International Airport
+SLVR,VVI,Santa Cruz Viru Viru International Airport
+SPJC,LIM,Lima Jorge Chavez International Airport
+SUMU,MVD,Montevideo Carrasco International Airport
+SVMI,CCS,Caracas Simon Bolivar International Airport
+TJSJ,SJU,San Juan Luis Munoz Marin International Airport
+UBBB,GYD,Baku Heydar Aliyev International Airport
+VHHH,HKG,Hong Kong International Airport
+ZBAA,PEK,Beijing Capital International Airport
+ZGGG,CAN,Guangzhou Baiyun International Airport
+ZSHC,HGH,Hangzhou Xiaoshan International Airport
+ZSPD,PVG,Shanghai Pudong International Airport
